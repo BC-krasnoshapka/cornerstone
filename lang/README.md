@@ -1,0 +1,1 @@
+BigCommerce provides official translations of Cornerstone theme. Please do not submit changes to translation files as they will not be accepted.
